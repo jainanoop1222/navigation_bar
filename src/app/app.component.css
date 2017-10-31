@@ -1,0 +1,35 @@
+.comp{
+  /*margin: 5px;*/
+  /*margin-top: 15px;*/
+  /*overflow: scroll;*/
+  display: inline;
+  float: left;
+  border-right: 2px solid aliceblue;
+  padding: 15px ;
+  background-color: grey;
+  /*border: 2px solid blue;*/
+}
+.comp2{
+  /*margin: 5px;*/
+  /*margin-top: 15px;*/
+  /*overflow: scroll;*/
+  display: inline;
+  float: right;
+  border-left: 2px solid aliceblue;
+  padding: 15px ;
+  background-color: grey;
+  /*border: 2px solid blue;*/
+}
+.comp3{
+  /*margin: 5px;*/
+  /*margin-top: 15px;*/
+  /*overflow: hidden;*/
+  /*display: inline;*/
+  /*list-style-type: none;*/
+  float: right;
+  width: 100%;
+  /*border-right: 2px solid aliceblue;*/
+  /*padding: 15px ;*/
+  background-color: #333;
+  /*border: 2px solid blue;*/
+}
